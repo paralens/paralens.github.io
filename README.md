@@ -18,6 +18,18 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+![LLNS Map]({{ site.url }}/images/LLNSmap.png)
+
+2300 First Street, Suite #204
+
+Livermore, CA 94550
+
+1. From LLNL, head west on East Avenue (3.7 miles)
+2. Slight right onto S. Livermore Avenue (0.2 miles)
+3. After passing over First Street, parking lot will be on the right hand side.
+4. The entrance to the office is located between the buildings.  Enter through the glass doors.  We are located on the 2nd Floor across the bridge on the left hand side of the hallway.
+
+
 1. Numbered
 2. List
 
