@@ -1,10 +1,35 @@
-## Welcome to GitHub Pages
+# PALS
 
-You can use the [editor on GitHub](https://github.com/paralens/paralens.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## BAMM Meeting June 5 2015
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Bay Area Microlensing Meeting (BAMM) will focus primarily on the recent black hole detection method, resulting candidates, and mass estimation. We will also discuss recent efforts in DECam image processing, black hole dark matter constraints, etc..
 
-### Markdown
+### Agenda
+
+This will be a working meeting with a fluid detailed agenda, however it will roughly follow:
+
+- 9:00 - 9:30 Light breakfast including coffee & tea. Also informal introductions since we have some new people.
+- 9:30 – 10:30 Status update presentations
+- 10:30 - 10:45 Break
+- 10:45 – 12:00 Status update presentations
+- 12:00 – 1:30 Lunch
+- 1:30 – 4:00 Free-form workshop style hacking
+- 4:00 – 5:00 Present results of workshop efforts
+
+Status updates include:
+
+- Nate: black hole candidates in archival data
+- Will: class and mass estimation of black hole candidate events
+- Jessica/Casey: Dynasty nested sampling modeling walk through
+- Tim: Black hole dark matter review
+- Bob: DECam difference imaging
+- Will: black hole candidate paper draft
+- *Others: please let Will know*
+
+
+### Logistics
+
+#### Location
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -19,33 +44,14 @@ Livermore, CA 94550
 3. After passing over First Street, parking lot will be on the right hand side.
 4. The entrance to the office is located between the buildings.  Enter through the glass doors.  We are located on the 2nd Floor across the bridge on the left hand side of the hallway.
 
-```markdown
-Syntax highlighted code block
+#### Parking
 
-# Header 1
-## Header 2
-### Header 3
+- Parking is located directly behind the LLNS office.
+- Parking in front of the office on First Street is 90 minute only parking.
+- If the main parking lot is full, there is additional parking available across the street behind Uncle Yu’s restaurant.
 
-- Bulleted
-- List
+#### Facilities
 
+- Conference room that seats maximum of 30 people
+- Projector with VGA connector
 
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paralens/paralens.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
